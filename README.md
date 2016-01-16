@@ -20,6 +20,7 @@ View the README file in the data folder for the instructions on where to access 
 Finally, move into the titan folder and run
 
 ```
+./bin/titan.sh start
 ./bin/gremlin.sh
 ```
 
