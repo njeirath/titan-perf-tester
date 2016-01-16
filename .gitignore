@@ -1,3 +1,7 @@
 .vagrant
 target
 .idea
+load.sql
+.DS_Store
+data/*.csv
+*.iml
